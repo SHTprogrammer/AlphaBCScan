@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.adjustablesoftware.alphabcscan"
+        id        = "com.stahmoresi.alphabcscan"
         version   = "1.0.0">
 
     <name>Alpha UX Scan</name>
@@ -12,8 +12,8 @@
         An Alpha Anywhere / PhoneGap app for scanning a barcode from a UX Component
     </description>
 
-    <author href="http://www.adjustablesofware.com" email="rune.dkates@rogers.com">
-        David Kates
+    <author href="http://www.shakibasroom.com" email="shakibat@shakiba.com">
+        Shakiba
     </author>
 
     <!--
